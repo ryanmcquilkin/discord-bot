@@ -1,0 +1,3 @@
+# Basic Discord bot
+
+## It doesn't really do anything yet, you can use !rping to check your ping, that's about it...
